@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Trillium Media Design - Contact</title>
+<title>Myron Green Test Web Design - Contact</title>
 <meta charset="utf-8">
 </head>
 <body>
 <header>
-  <h1>Trillium Media Design</h1>
+<body style="background-color:#F5F5F5;color:#008080;">
+<h1 style="background-color:#008080;color:#F5F5F5;">  Myron Green Test Web Design</h1>
 </header>
 <nav>
   <b><a href="index.php">Home</a> &nbsp; 
